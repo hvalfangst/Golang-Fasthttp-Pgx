@@ -4,7 +4,7 @@ INSERT INTO owners (owner_name, contact_info, date_of_birth)
 VALUES
     ('Igor Youriévitch Bogdanoff', 'yesterday.in@norwegian.com', '1949-08-29'),
     ('Grichka Youriévitch Bogdanoff', 'griskhet@tvilling.com', '1949-08-29'),
-    ('Ernst Snømann', 'ernst@snowmail.com', '1530-09-10');
+    ('E.T. Copium', 'tvt@dunning.krugermail.com', '1993-09-10');
 
 INSERT INTO cars (make, model, year, vin, color, purchase_date, owner_id)
 VALUES
